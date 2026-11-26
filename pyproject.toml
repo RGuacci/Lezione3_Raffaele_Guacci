@@ -1,0 +1,22 @@
+[project]
+name = "lezioniopenai"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Raffaele",email = "guacciraffaele@gmail.com"}
+]
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv (>=1.2.4,<2.0.0)",
+    "openai (>=3.59.0,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "ipykernel (>=7.4.0,<8.0.0)"
+]
