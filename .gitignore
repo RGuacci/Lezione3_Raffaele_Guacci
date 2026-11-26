@@ -1,22 +1,15 @@
-# Ambiente virtuale
 .venv/
 
-# Variabili d'ambiente e chiavi API
 .env
 .env.*
 
-# Eccezione: mantieni il file di esempio
 !.env.example
 
-# File Python generati automaticamente
 __pycache__/
 *.py[cod]
 
-# File di configurazione degli IDE
 .vscode/
 
-# File temporanei di Jupyter Notebook
 .ipynb_checkpoints/
 
-# File di log
 *.log
