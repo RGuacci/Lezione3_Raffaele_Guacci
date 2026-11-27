@@ -1,0 +1,34 @@
+### Giulia Bianchi
+Backend Developer Junior
+Email: giulia.bianchi@example.com
+Telefono: 3339876543
+
+### Profilo professionale
+Sviluppatrice backend con interesse per la progettazione di API e la gestione dei database.
+Appassionata di programmazione e problem solving.
+Alla ricerca di un'opportunità per approfondire le proprie competenze nello sviluppo software.
+
+### Esperienza lavorativa
+Junior Backend Developer presso CodeFactory
+Marzo 2023 - Dicembre 2024
+Sviluppo e manutenzione di API REST utilizzando Python e Django.
+Implementazione di funzionalità per la gestione degli utenti.
+Scrittura di query SQL e ottimizzazione di alcune operazioni sul database.
+
+### Competenze tecniche
+Python, Django, PHP, Laravel, PostgreSQL, MySQL, Git.
+Conoscenza dei principi di programmazione orientata agli oggetti.
+
+### Formazione
+Laurea triennale in Informatica
+Università degli Studi di Bari
+Anno di conseguimento: 2022
+
+### Progetti personali
+Applicazione per la gestione delle attività quotidiane.
+Backend sviluppato con Django e database PostgreSQL.
+Implementazione di autenticazione e gestione delle attività degli utenti.
+
+### Lingue
+Italiano: madrelingua
+Inglese: livello B2

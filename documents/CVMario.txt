@@ -1,0 +1,29 @@
+### Mario Rossi
+Sviluppatore Web Junior
+Email: mario.rossi@example.com
+Telefono: 3331234567
+
+### Profilo professionale
+Sviluppatore web junior con conoscenze di HTML, CSS, JavaScript e PHP.
+Interessato allo sviluppo di applicazioni web e alla creazione di interfacce responsive.
+Motivato a crescere professionalmente e a lavorare in un team di sviluppo.
+
+### Esperienza lavorativa
+Web Developer Intern presso WebSolutions
+Gennaio 2024 - Giugno 2024
+Sviluppo di pagine web responsive utilizzando HTML, CSS e JavaScript.
+Collaborazione con il team backend per l'integrazione delle API.
+Utilizzo di Git e GitHub per il controllo delle versioni.
+
+### Competenze tecniche
+HTML5, CSS3, JavaScript, PHP, Bootstrap, Git, GitHub.
+Conoscenza di base di MySQL e delle API REST.
+
+### Formazione
+Diploma in Informatica
+Istituto Tecnico Galileo Galilei
+Anno di conseguimento: 2023
+
+### Lingue
+Italiano: madrelingua
+Inglese: livello B1

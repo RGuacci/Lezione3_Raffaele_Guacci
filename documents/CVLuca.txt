@@ -1,0 +1,37 @@
+### Luca Verdi
+Full Stack Developer
+Email: luca.verdi@example.com
+Telefono: 3334567890
+
+### Profilo professionale
+Sviluppatore full stack con esperienza nella realizzazione di applicazioni web.
+Competenze sia nello sviluppo frontend sia nella progettazione backend.
+Interesse per le architetture software e le tecnologie cloud.
+
+### Esperienza lavorativa
+Full Stack Developer presso DigitalWorks
+Febbraio 2022 - Presente
+ Sviluppo di applicazioni web utilizzando React e Node.js.
+Progettazione e implementazione di API REST.
+Gestione dei database relazionali e integrazione con servizi esterni.
+Collaborazione con il team tramite metodologie Agile e Scrum.
+
+### Competenze tecniche
+JavaScript, TypeScript, React, Node.js, Express, PostgreSQL.
+HTML, CSS, Docker, Git, GitHub.
+Conoscenza di base di AWS e dei sistemi Linux.
+
+### Formazione
+Laurea magistrale in Ingegneria Informatica
+Università degli Studi di Napoli Federico II
+Anno di conseguimento: 2021
+
+### Progetti personali
+Piattaforma per la gestione di eventi e prenotazioni.
+Frontend realizzato con React e TypeScript.
+Backend sviluppato con Node.js ed Express.
+Database PostgreSQL per la gestione di utenti, eventi e prenotazioni.
+
+### Lingue
+Italiano: madrelingua
+Inglese: livello C1
